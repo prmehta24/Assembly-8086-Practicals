@@ -9,4 +9,5 @@ Assembly(8086) Practicals at CE701 Interfacing with Microprocessors(IWM) Labs at
   5. 
       * a)  String related interrupt handling: input, display string.
       * b)  Find the number of 1’s of given 8 bit number determine its parity and display the result.
+ * I tested these programs using [emu8086](https://download.cnet.com/Emu8086-Microprocessor-Emulator/3000-2069_4-10392690.html) and [tasm](https://mccshreyas.wordpress.com/2017/03/27/how-to-install-and-configure-tasm-on-windows-7810/). 
   
